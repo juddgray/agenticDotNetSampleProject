@@ -10,12 +10,11 @@ This repository serves as a production-grade, enterprise blueprint for a **Multi
 
 ---
 
-## 🎓 Master the Full Workflow (97% Instructor Discount)
+## 🎓 Master the Full Workflow
 
 This repository contains the completed production code. If you want to learn how to orchestrate autonomous agents to build, code-review, security-audit, and deploy this entire system from scratch in under 30 seconds, join the complete masterclass:
 
 👉 **[CLICK HERE to Enroll in the Complete Agentic .NET Course (Maximum Discount Applied)](#)** 
-*(Using this link directly supports the creator by routing 97% of the revenue share to the instructor instead of the generic Udemy marketplace pool).*
 
 ---
 
