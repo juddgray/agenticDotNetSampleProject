@@ -17,3 +17,10 @@
 .vs/tasks.vs.json
 .vs/agenticDotNetSampleProject.slnx/FileContentIndex/1a9b45bd-5138-4f6d-a299-83b194fdd7f5.vsidx
 /.vs
+/AgenticMultiTenantApi/.vs
+/AgenticMultiTenantApi/src/AgenticMultiTenantApi.Web/bin
+/AgenticMultiTenantApi/src/AgenticMultiTenantApi.Web/obj
+/AgenticMultiTenantApi/src/AgenticMultiTenantApi.Infrastructure/obj
+/AgenticMultiTenantApi/src/AgenticMultiTenantApi.Core/obj
+/AgenticMultiTenantApi/src/AgenticMultiTenantApi.Core/bin
+/AgenticMultiTenantApi/src/AgenticMultiTenantApi.Infrastructure/bin

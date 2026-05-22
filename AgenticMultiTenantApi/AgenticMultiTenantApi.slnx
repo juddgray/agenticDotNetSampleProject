@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AgenticMultiTenantApi.Core/AgenticMultiTenantApi.Core.csproj" />
+    <Project Path="src/AgenticMultiTenantApi.Infrastructure/AgenticMultiTenantApi.Infrastructure.csproj" />
+    <Project Path="src/AgenticMultiTenantApi.Web/AgenticMultiTenantApi.Web.csproj" />
+  </Folder>
+</Solution>
